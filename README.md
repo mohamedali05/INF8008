@@ -1,2 +1,2 @@
-## INF 8008
+## INF8008
 Repositoy containing all the labs
